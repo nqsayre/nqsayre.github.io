@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkolivegreen;
+}
+
+.box1-1{
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+}
+.box1-2{
+    width: 100%;
+    height: 50px;
+    background-color: honeydew;
+}
+.half{
+    width: 50%;
+}
+.box2-1{
+    background-color: tan;
+}
+.box2-2{
+    background-color: gold;
+}
+.box3{
+    height: 50px;
+    background-color: lightblue;
+}
+.h150{
+height: 150px;
+}
