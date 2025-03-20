@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    background-color:- #7b798f;
+    color: #646266;
+    font-family: Arial sans-serif;
     margin: 0;
     padding: 0;
-    background: #7b798f;
-    color: #646266;
 }
 
 header {
@@ -28,7 +28,7 @@ header {
 nav {
     background: white;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 nav ul {
@@ -54,8 +54,8 @@ body {
  
   .hero {
     position: relative;
-    height: 250px;
-    background-image: url('images/logo1.jpg');
+    height: 350px;
+    background-image: url('images/gallery_banner.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -78,11 +78,11 @@ body {
   }
  
   p {
+    
     font-size: 1em;
     line-height: 1.6;
   }
  
-
 
 main {
     display: flex;
@@ -120,7 +120,7 @@ aside {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #ada982;
+    background: #ada982;
     color: white;
 }
 
@@ -175,4 +175,3 @@ body {
   li {
     margin-bottom: 5px;
   }
-
